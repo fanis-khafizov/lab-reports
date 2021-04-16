@@ -1,0 +1,324 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.25)  25 MAR 2020 23:03
+entering extended mode
+**./document.tex
+(document.tex
+LaTeX2e <2019-10-01> patch level 3
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.
+cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.c
+lo"
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-globa
+l.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count88
+\uc@combtoks=\toks14
+\uc@combtoksb=\toks15
+\uc@temptokena=\toks16
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc
+.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\utf8x.def
+"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel
+.sty"
+Package: babel 2019/11/14 3.36 The Babel package
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switc
+h.def"
+File: switch.def 2019/11/14 3.36 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts
+.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-russian
+\russianb.ldf"
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel
+.def"
+File: babel.def 2019/11/14 3.36 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtba
+bel.def")
+\bbl@dirlevel=\count90
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2ae
+nc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.s
+ty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks19
+\float@box=\box27
+\@float@everytoks=\toks20
+\@floatcapt=\box28
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyv
+al.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hics.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig
+.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\
+graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\
+pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (document.aux
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4
+.
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2ac
+mr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucsencs.d
+ef"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\s
+upp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen106
+\scratchbox=\box29
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen107
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks23
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\
+epstopdf-base.sty"
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\in
+fwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfe
+xt.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kv
+definekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\lt
+xcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvop
+tions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kv
+setkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\et
+excmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iflua
+tex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex
+.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)))))
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pd
+ftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+42.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+)
+<logo.png, id=1, 1599.9775pt x 1599.9775pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 14.
+(pdftex.def)             Requested size: 117.00119pt x 116.99025pt.
+
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-4.def
+"
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+("C:\Users\Фанис\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-33.de
+f"
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+ [1
+
+{C:/Users/Фанис/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo
+.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+ [2]
+<graph1.jpg, id=17, 589.60275pt x 257.16075pt>
+File: graph1.jpg Graphic file (type jpg)
+<use graph1.jpg>
+Package pdftex.def Info: graph1.jpg  used on input line 58.
+(pdftex.def)             Requested size: 412.71912pt x 180.01129pt.
+
+Overfull \hbox (22.71912pt too wide) in paragraph at lines 58--59
+ [][] 
+ []
+
+<graph2.jpg, id=18, 589.60275pt x 257.16075pt>
+File: graph2.jpg Graphic file (type jpg)
+<use graph2.jpg>
+Package pdftex.def Info: graph2.jpg  used on input line 63.
+(pdftex.def)             Requested size: 412.71912pt x 180.01129pt.
+
+Overfull \hbox (22.71912pt too wide) in paragraph at lines 63--64
+ [][] 
+ []
+
+<graph3.png, id=19, 566.115pt x 332.442pt>
+File: graph3.png Graphic file (type png)
+<use graph3.png>
+Package pdftex.def Info: graph3.png  used on input line 68.
+(pdftex.def)             Requested size: 396.2778pt x 232.70781pt.
+
+Overfull \hbox (6.2778pt too wide) in paragraph at lines 68--69
+ [][] 
+ []
+
+[3 <./graph1.jpg>] [4 <./graph2.jpg> <./graph3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 83--88
+
+ []
+
+[5] [6] (document.aux) ) 
+Here is how much of TeX's memory you used:
+ 3927 strings out of 492484
+ 53927 string characters out of 3119335
+ 125382 words of memory out of 3000000
+ 8224 multiletter control sequences out of 15000+200000
+ 11330 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,32p,1261b,679s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Фанис\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Фанис\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Фанис\AppData
+\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Фа�
+�ис\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk><C:
+/Users/Фанис/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmex10.pfb><C:/Users/Фанис/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Фанис/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Фанис/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Ф
+анис/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Users/Фанис/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr6.pfb><C:/Users/Фанис/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Фанис/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on document.pdf (6 pages, 1028228 bytes).
+PDF statistics:
+ 204 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
