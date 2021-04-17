@@ -84,11 +84,26 @@
 	Из коэффициента наклона графика $r(1/I)$:\\
 	$\displaystyle\alpha = 6,12$ см$\cdot$А$=6,12\cdot10^{-2}$м$\cdot$А\\
 	Из формулы (\ref{eq}):\\
-	$\displaystyle\alpha = \frac{R}{\mu_0n}\sqrt{\frac{125}{32\gamma}}\sqrt{U}$\\
-	$\displaystyle\gamma=\frac{125}{32}\left(\frac{R}{\alpha\mu_0n}\right)^2U=\frac{125}{32}\left(\frac{0,2}{6,12\cdot10^{-2}\cdot1,26\cdot10^{-6}\cdot154}\right)^2\cdot 150=\\=1,66\cdot10^{-11}$Кл/кг\\
+	$\displaystyle\alpha = \frac{R}{\mu_0n}\sqrt{\frac{125}{32\gamma_1}}\sqrt{U}$\\
+	$\displaystyle\gamma_1=\frac{125}{32}\left(\frac{R}{\alpha\mu_0n}\right)^2U=\frac{125}{32}\left(\frac{0,2}{6,12\cdot10^{-2}\cdot1,26\cdot10^{-6}\cdot154}\right)^2\cdot 150=\\=1,66\cdot10^{-11}$Кл/кг\\
 	Коэффициент наклона графика $r(\sqrt{U})$:\\
 	$\displaystyle\beta=0,291$ см$/\sqrt{B}=0,291\cdot10^{-2}$ м$/\sqrt{B}$\\
 	Из формулы (\ref{eq}):\\
-	$\displaystyle\beta=\frac{R}{\mu_0nI}\sqrt{\frac{125}{32\gamma}}$\\
-	$\displaystyle\gamma=\left( \frac{R}{\mu_0nI\beta}\right)^2\cdot\frac{125}{32}=\left(\frac{0,2}{1,26\cdot10^{-6}\cdot154\cdot1,5\cdot0,291\cdot10^{-2}}\right)^2\cdot\frac{125}{32}=\\=2,17\cdot10^{-11}$
+	$\displaystyle\beta=\frac{R}{\mu_0nI}\sqrt{\frac{125}{32\gamma_2}}$\\
+	$\displaystyle\gamma_2=\left( \frac{R}{\mu_0nI\beta}\right)^2\cdot\frac{125}{32}=\left(\frac{0,2}{1,26\cdot10^{-6}\cdot154\cdot1,5\cdot0,291\cdot10^{-2}}\right)^2\cdot\frac{125}{32}=\\=2,17\cdot10^{-11}$ Кл/кг\\\\
+	Оценка погрешностей:\\
+	$\displaystyle\Delta\gamma_1=\varepsilon_{\gamma1}\cdot\gamma_1=(2\varepsilon_r+2\varepsilon_I+\varepsilon_U)\cdot\gamma_1=\left(2\frac{\Delta r}{r}+2\frac{\Delta I}{I}+\frac{\Delta U}{U}\right)\cdot\gamma_1=\left(2\frac{0,25}{2,0}+2\frac{0,01}{1,27}+\frac{0,5}{150}\right)\cdot1,66\cdot10^{-11}=0,45\cdot10^{-11}$ Кл/кг\\
+	$\displaystyle\Delta\gamma_2=\varepsilon_{\gamma2}\cdot\gamma_2=(2\varepsilon_r+2\varepsilon_I+\varepsilon_U)\cdot\gamma_1=\left(2\frac{\Delta r}{r}+2\frac{\Delta I}{I}+\frac{\Delta U}{U}\right)\cdot\gamma_1=\left(2\frac{0,25}{2,0}+2\frac{0,01}{1,5}+\frac{0,5}{63}\right)\cdot2,17\cdot10^{-11}=0,59\cdot10^{-11}$ Кл/кг\\
+	\section{Результаты}
+	Табличное значение удельного заряда электрона:\\
+	$\displaystyle\gamma=1,76\cdot10^{-11}$ Кл/кг\\
+	Значения удельного заряда электрона, полученные в ходе эксперимента:\\
+	$\displaystyle\gamma_1=\left(1,66\pm0,45\right)\cdot10^{-11}$ Кл/кг\\
+	$\displaystyle\gamma_2=\left(2,17\pm0,59\right)\cdot10^{-11}$ Кл/кг\\
+	$\varepsilon_{\gamma1}=28\%$\\
+	$\varepsilon_{\gamma2}=28\%$\\
+	Первый метод дал более точное значение удельного заряда электрона, однако, с учетом погрешности табличное значение попадает в ворота обоих методов.\\
+	Оцененные погрешности совпали, но в первом опыте мы получили более близкое к истинному значение, так как было зафиксировано ускоряющее напряжение, и изменялась лишь индукция магнитного поля. Во втором же случае менялось ускоряющее напряжение, что могло негативно сказаться на стабильности пучка элуктронов.
+	\section{Выводы}
+	В ходе проведения эксперимента нам удалось измерить удельный заряд электрона с достаточно высокой точностью. В обоих опытах относительная погрешность равна $28\%$. Она настолько большая из-за неточного метода измерения радиуса траектории (было предложено делить отрезок известной длины пополам на глаз), что сказалось на точности самого ответа. Чтобы уменьшить погрешность можно закрепить более точный измерительный прибор внутри трубки, например, линейку.
 \end{document}
